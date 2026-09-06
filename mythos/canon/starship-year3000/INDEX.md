@@ -18,7 +18,7 @@ CANON (markdown shelf on Incognita; heavy binaries on desk / CVSC / Drive).
 | CVSC | `/workspace/crystal-vision-source-collection/year-3000/` |
 | Artifacts | `/workspace/crystalcore-artifacts/narrative/year-3000/` |
 | Pack | `/workspace/starfleet-au-pack/year-3000/` |
-| GitHub | `TerAustralis-Incognita` `mythos/canon/starship-year3000/` (preferred Canon path; #179 was under content/) |
+| GitHub | `TerAustralis-Incognita` `mythos/canon/starship-year3000/` (preferred; PR #180) · legacy pointer `mythos/content/year-3000/` (#179 merged) |
 | Notion | Canon — Year 3000 Present→Imagine (INT-2026-09-07-004) |
 
 ## Key artefacts
