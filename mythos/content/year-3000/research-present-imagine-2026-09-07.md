@@ -1,5 +1,5 @@
 # Research pack — densify Present → Imagine
-**Access date:** 2026-09-07 · Researchy · desk · not Canon · not outreach
+**Access date:** 2026-09-07 · Researchy · desk · CANON (INT-2026-09-07-004) · not outreach
 
 ## Method
 Live web + prior pitch factcheck. Status: CONFIRMED / UPDATED / WEAK / UNKNOWN. Soft numbers marked *.
