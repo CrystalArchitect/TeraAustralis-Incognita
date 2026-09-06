@@ -1,5 +1,5 @@
 # Present → Imagine — one page
-**7 Sep 2026 · Crystal Elle Arena-Turner / Researchy · desk · not Canon · not a MoU · no public post without yes**
+**7 Sep 2026 · Crystal Elle Arena-Turner / Researchy · desk · CANON (INT-2026-09-07-004) · not a MoU · no public post without yes**
 
 ## One line
 Cheap access, stay, build, and crew *now* is how a southern-hemisphere civilisation still has a lane worth imagining later.
