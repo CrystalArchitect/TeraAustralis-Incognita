@@ -1,6 +1,6 @@
 # Folio Index — Codex Æ Crystalum — M.A.G.E. — Canonical 39 Sealed
 
-Bridge mythos ↔ logos. Seal: M.A.G.E. Non Solus removed. Weight 0. Version 8.3. Study-layer only; seams showing; fictional framing is invented literary device.
+Bridge mythos ↔ logos. Seal: M.A.G.E. Weight 0. Version 8.3. Study-layer only; seams showing; fictional framing is invented literary device.
 
 Foundational & Original Folios (Folios 01–07, 08, 11–12)
  * Folio 01 — Hypostasis of the Archons
