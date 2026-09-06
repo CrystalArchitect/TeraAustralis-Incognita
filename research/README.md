@@ -17,6 +17,11 @@ they are Science (checkable), Story, or Vision — see
 | [`seven-sisters/`](seven-sisters/) | The seven-path Songline cycle — path manuals, water briefs, transmit records (mixed Science/Story/Vision, labeled internally) |
 | [`prototypes/story-library/`](prototypes/story-library/) | Self-contained working prototype of the premium Story Library experience — HTML/CSS/JS demonstration of the Story Library design (Vision-layer) |
 
+| [`cvsc/`](cvsc/) | CVSC Dictionary-of-Dreams citation plate / log / JSON (external; not Canon) |
+| [`erisian-blade/`](erisian-blade/) | Erisian Blade epistemic audit material (working) |
+| [`yaldabaoth/`](yaldabaoth/) | Yaldabaoth root-dump matrix + crystallization receipt (working / dump) |
+| [`drive-exports/`](drive-exports/) | Named Drive Codex exports divergent from `CODEX-CRYSTALUM.md` |
+
 The v1.0 architecture also names `DragonMath/`, `Algorithms/`,
 `Experiments/`, `Simulations/` as standard shelves —
 they get created when the first real content arrives, not before.
