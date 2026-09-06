@@ -1,13 +1,13 @@
 # Bridge brief — Starship Australia ↔ The Year 3000 (Atlas future anchor)
 Date: 2026-09-07 AEST  
-Status: REGISTERED · **Canon-candidate (Crystal yes 2026-09-07)** · routed Barbelo · not a public post · not a MoU claim  
+Status: CANON (INT-2026-09-07-004 · Crystal yes 2026-09-07)
 Authors: Researchy with Crystal Elle Arena-Turner (Chief Engineer framing on industrial spine)
 
 ## What this is
 A **map**, not a prophecy. Connects two already-filed objects without collapsing them:
 
 1. **Industrial spine (Present → near Future):** Starfleet Australia / Kangaroo-class / Starship-adjacent AU pack (`/workspace/starfleet-au-pack/`). Fact-checked; TSA/Statement on Space/Southern Launch/Gilmour/Neumann/Titomic locks hold.
-2. **Creative future anchor (Future — Imagine):** **The Year 3000** in Crystal Vision Atlas — possibility/invention emotional anchor only. **No lyrics.** Paired historically with *I Am Australian* (Past — Remember). Meeting point named in Atlas extract: “Where I Am Australian and The Year 3000 meet.”
+2. **Creative future anchor (Future — Imagine):** **The Year 3000** in Crystal Vision Atlas — possibility/invention emotional anchor, now **explicitly tied to the song** *Year 3000* (Busted 2002 / Jonas Brothers 2006 / 2.0 2023). **SOURCE: SONG** · short quotes only · not a lyric sheet. Paired with *I Am Australian* (Past — Remember, feeling only). Meeting point: “Where I Am Australian and The Year 3000 meet.” See `song-year-3000-tie-2026-09-07.md` (multiplatinum = UK Busted 2× fact + in-song prophecy still open in US).
 
 Connection ≠ identity. Atlas does not predict; it prepares. Industrial pack does not collapse into mythos by adjacency; Crystal authorised this Present→Imagine pack into the Canon lane (Barbelo) while keeping connection ≠ identity.
 
@@ -44,7 +44,7 @@ Year 3000 layer adds **no new hardware claims**. It only asks Atlas questions:
 - Eris not orbital yet (TF2 ~early 2027*).
 - Methalox industrial chain for Starship-class cadence not public.
 - Concept art ≠ certification.
-- *The Year 3000* = creative anchor only — **no lyrics**, not artist intention, not a date prophecy for Starship.
+- *Year 3000* (song) = Imagine anchor — **named**; full lyrics not dumped; ARTIST INTENTION UNKNOWN for Starship; not a date prophecy for pads/MoUs. Multiplatinum: UK Busted 2× Platinum CONFIRMED; US JoBros multi not claimed; lyric "multi-platinum" = creative prophecy.
 - Standing approval floor: draft/file freely; no public post / outreach / canon merge without Crystal’s explicit yes.
 
 ## Build phases re-read as tide (not destiny)
