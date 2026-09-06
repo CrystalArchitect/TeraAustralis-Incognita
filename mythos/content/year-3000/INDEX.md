@@ -25,6 +25,7 @@ CANON (markdown shelf on Incognita; heavy binaries on desk / CVSC / Drive).
 - plate-au-present-future-imagine-v1.png
 - bridge-starship-year3000-2026-09-07.md
 - research-au-spine + framing + present-imagine matrices
+- song-year-3000-tie-2026-09-07.md (SOURCE:SONG · multiplatinum split)
 - Pitch PDF v6 p4 embeds the plate (starfleet-au-pack)
 
 CrystalCore-Canon GitHub repo does not exist yet — Incognita mythos is the Canon shelf.
