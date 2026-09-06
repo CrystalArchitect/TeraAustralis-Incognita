@@ -6,7 +6,8 @@
 CANON (markdown shelf on Incognita; heavy binaries on desk / CVSC / Drive).
 
 ## Locks
-- Year 3000 = Imagine only (no lyrics, not schedule)
+- Year 3000 = Imagine only (song named SOURCE:SONG; no full lyrics; not schedule)
+- Multiplatinum split: UK Busted BPI 2× Platinum CONFIRMED; US JoBros multi not claimed; in-song = creative prophecy
 - Connection ≠ identity · industrial spine ≠ mythos collapse
 - No Starship MoU · ELA not live · fact spine from `research-au-spine-2026-09-07.md`
 
