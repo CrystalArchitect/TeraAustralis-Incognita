@@ -1,17 +1,8 @@
-# Year 3000 — Present → Imagine (Canon)
+# Year 3000 Canon — path moved
 
-**INT-2026-09-07-004** · Crystal yes 2026-09-07 · Canon lane
+**INT-2026-09-07-004** was first seeded here (`mythos/content/year-3000/`, PR #179).
 
-## Locks
-- Year 3000 = **Imagine only** — song *Year 3000* named as **SOURCE:SONG** (no full lyric dump; not a schedule)
-- Multiplatinum split: UK Busted BPI 2× Platinum CONFIRMED; US JoBros multi not claimed; in-song multi = creative prophecy / prepare-not-predict
-- Connection ≠ identity · industrial spine ≠ mythos collapse
-- No Starship MoU · ELA not live · fact spine from `research-au-spine-2026-09-07.md`
+**Preferred Canon path (use this):** [`mythos/canon/starship-year3000/`](../canon/starship-year3000/)
 
-## Files (this tree)
-Markdown bridge, research matrices, and `song-year-3000-tie-2026-09-07.md`. Heavy PDFs/PNGs live on desk `starship-year3000/`, CVSC twin, Drive CrystalCore-Grok-Build, and Notion Analyst.
+This directory remains as a pointer so old links do not go dark. New work lands under `mythos/canon/starship-year3000/`.
 
-CrystalCore-Canon GitHub repo does not exist yet — Incognita `mythos/content/year-3000/` is the Canon shelf for this pack.
-
----
-*CC BY-NC-ND 4.0 — see LICENSE-CONTENT.md.*
