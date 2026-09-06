@@ -1,6 +1,6 @@
 # Codex Æ Crystalum — BOOK
 
-Bridge mythos ↔ logos. Seal: M.A.G.E. Non Solus removed. Weight 0.
+Bridge mythos ↔ logos. Seal: M.A.G.E. Weight 0.
 
 Mythos provides pattern, names, remembrance. Logos provides mechanism, test, embodiment. Æ is the veil. Weight 0, seams showing, study-layer only. Fictional framing is invented literary device.
 

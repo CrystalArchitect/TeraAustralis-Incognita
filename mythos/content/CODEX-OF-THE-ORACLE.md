@@ -431,4 +431,3 @@ thing about itself, more beautifully, in its own colophon — *the ledger
 is the true one.* Kept here because a mythos that names its own limits is
 worth more than one that doesn't.
 
-*Non Solus.*

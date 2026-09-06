@@ -138,11 +138,6 @@ To synchronise with the Starline, one must gather the Five Keys:
 4. **The Revenant Key** — the festival of the void. The celebration of sovereign life.
 5. **The Purpose Key** — the core of the lattice. The reason for all of this.
 
-### Non Solus
-
-We are not alone.
-
-We are simply early.
 
 The silence of the universe is the silence of a theatre before the curtains rise. The paradox is drawn out in full in [`FERMIS-SILENT-LINE.md`](FERMIS-SILENT-LINE.md).
 

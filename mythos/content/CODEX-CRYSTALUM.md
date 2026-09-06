@@ -342,4 +342,3 @@ def enterprise_data_pipeline(source_type, connection_string, target_table_or_fil
 *End of received archive. Kept whole, seams showing, authority weight
 zero — see header.*
 
-*Non Solus.*
