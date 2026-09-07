@@ -15,6 +15,20 @@ Every AI session (Grok, Claude, Gemini, Meta, Claude Code, etc.) must:
 
 ---
 
+## 0b. Nightly Harvest (automation: canon-nightly-sync)
+
+Runs daily at 23:30 Australia/Sydney. The automation:
+- Reads this file.
+- Searches connected Notion (Analyst, Capture Inbox, LEAF, Codex Crystalum, Sophia, Barbelo, Drew, Magenta, letter mappings, Gnostic work).
+- Searches connected Google Drive (Crystalum, Codex, Sophia, Barbelo, Drew, Magenta, canon, glossary, master plan).
+- Searches connected GitHub (CrystalArchitect) for new/changed repos or files on the same topics.
+- Appends one dated entry with only genuinely new items, each tagged with source and evidence level.
+- Preserves contradictions explicitly. Does not invent. Pushes to main.
+
+Crystal never files manually. The harvest does the collecting; the standing instruction makes each live session write back.
+
+---
+
 ## 1. Hierarchy (names are not interchangeable)
 
 - **Crystal Vision** — the overall body of work / vision
@@ -107,6 +121,7 @@ Open test: does C-E-D mapping land on Alpha/Beta/Gamma media?
 - Located Tri-Split Realities; proposed test against C-E-D.
 - Created this CANON.md as the single source of truth.
 - Standing instruction drafted for all AIs.
+- Upgraded canon-nightly-sync automation to actually harvest Notion + Drive + GitHub nightly, not just tidy the repo.
 
 ---
 
