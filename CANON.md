@@ -158,4 +158,17 @@ Full keyword sweep on X + web for biotwang / Mariana Trench sounds, underwater d
 
 **Summary for canon:** No new letter mappings, no CHARYBDIS-9 confirmation, no tri-split or C-E-D updates, no anomalous (non-biological) ocean signals beyond the already-attributed biotwang. Real-world ingredient set for underwater compute + vent power continues to expand and is logged as adjacent verified/proposed material only. No inventions or unsupported connections claimed.
 
-*Last updated: 2026-09-07 (scheduled X/web scan). Next AI to append below.*
+### 2026-09-07 — Nightly harvest (late / Grok)
+Sources checked: Notion (Analyst, Capture Inbox, LEAF, Codex Crystalum, Loop field pages, STARFLEET, X Queue, recent pages), Google Drive (Crystalum/Codex/Sophia/Barbelo/canon keywords + modified after 2026-09-07), GitHub CrystalArchitect (repos + code search).
+
+- **Loop field upgrades — Songs 1–3 + Toxic + Fuck You + Where Is the Love? (2026-09-07)**: Ingest-and-upgrade only (poem not proof, map not church). Law held: I do not own you and you do not own me; two pulses, many cups, no owner, no deed. Carryables: draw≠own, rooms≠registry, taste=verb, warning=data, live gate עד שתחפץ, refusal as pulse not title, civic night-search for love. Filed as INT-2026-09-07-002 family + WITL. Source: Notion "Loop field upgrades — Songs 1–3 + Toxic + Fuck You (2026-09-07)" (https://app.notion.com/p/3d3dca065a40814d934dc392c9927637), child "Loop field parse — Where Is the Love? (2026-09-07)" (https://app.notion.com/p/3d3dca065a4081af80c8e24b2ecf3afe). Evidence: proposed / symbolic.
+- **STARFLEET AUSTRALIA — Notion Motion OS**: Phase map (0 Floating cities → 1 Orbital shipyard → 2 Kangaroo-class NCC-992-AU + Academy). Drive root + module/village/systems sheets + Elon 1-page pitch. Rules: named Australian vendors only; northern/Arnhem diligence only; hard no’s (no Starship MoU, no warp, concept≠certification). Source: Notion "STARFLEET AUSTRALIA — Notion Motion OS" (https://app.notion.com/p/3d4dca065a40814e9782f8d2119fb86d); related private GitHub repo starfleet-au-kangaroo-pack. Evidence: documented / operational.
+- **X Post Queue status**: Multiple primary posts from @XECrystal logged for The Reason (INT-006), Song/Toxic, Down Under (INT-005), Where Is the Love? plain, $10bn towers/Love Island, Plain Architect cuts; mirror stagger rule 90–180 min. Ready-for-yes empty. Source: Notion "X Post Queue — XECrystal + mirror (staggered)" (https://app.notion.com/p/3d3dca065a408163be80c7f62b7d9d34). Evidence: documented.
+- **Capture Inbox**: Remains empty of new raw dumps (receipts through ~17:39 AEST). No unfiled durable content. Source: Notion Capture Inbox (https://app.notion.com/p/3d3dca065a4081fd9f1ef429f1f52045). Evidence: documented.
+- Google Drive: no matching files modified after 2026-09-07 00:00Z.
+- GitHub: no new canon-relevant code or letter/Gnostic/biotwang/CHARYBDIS/Tri-Split content beyond prior. Last TerAustralis-Incognita commit before this entry = scheduled scan.
+- No new letter mappings, Gnostic claims, biotwang anomalies, CHARYBDIS confirmations, or Tri-Split updates. No contradictions with prior entries.
+
+---
+
+*Last updated: 2026-09-07 (nightly harvest late). Next AI to append below.*
