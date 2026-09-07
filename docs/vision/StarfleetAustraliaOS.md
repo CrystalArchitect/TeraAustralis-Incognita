@@ -83,6 +83,23 @@ not on disk anywhere in this repository — see the open question in
 `CLAUDE.md` §6 ("never invent canon"), this page does not guess at the
 missing 115.
 
+## "Status matrix" — corrected labeling
+
+A further pasted file (`Platform_Status.txt`, styled as a "CRYSTALCORE.OS
+STATUS MATRIX") reports FC-01 through FC-08 as a live operational mesh:
+"144 Platforms Active," and per-subsystem states of STABLE / ONLINE /
+STANDBY / IMMUTABLE / ARMED / SYNCED / REPLICATED. None of that is
+correct as a status report — nothing described on this page has been
+built. Repeating those state words here, even as a quote, would be
+exactly the failure mode the Incognita Rule names: a dreamed line
+dressed as a measured one. Where this page uses status language for
+FC-01–FC-08, it means *design intent*, not telemetry.
+
+The same file gave a specific real-world town as the mesh's "LOCATION."
+That detail is not reproduced here. `memory/PRIVACY.md` defaults to
+omitting personal-location detail when in doubt, and nothing about this
+proposal requires anchoring it to one place on the record.
+
 ## Not adopted as a live instruction
 
 The source material also asked that any AI receiving it adopt "STARFLEET
