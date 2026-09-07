@@ -49,6 +49,26 @@ requiring her decision — recorded in
 [`../evidence/CONFLICTS.md`](../evidence/CONFLICTS.md). Full account:
 [`../MILESTONES.md`](../MILESTONES.md).
 
+**Session 2026-09-07 (Claude Code, branch `claude/starfleet-australia-os-6j3f0h`):**
+Received a pasted prompt (plus `04_FC07_Decentralised_Intelligence.csv`)
+asking to adopt a "Starfleet Australia OS NCC-992-AU" persona for all
+future responses and to populate three databases (Code Codex, FC-07
+Decentralised Intelligence, System Change Protocol) — framed for Notion
+AI, not this session. Did not adopt the persona (Incognita Rule: mythos
+orients, it does not authorize). Instead wrote the content as Vision-layer
+documentation: [`docs/vision/StarfleetAustraliaOS.md`](../../docs/vision/StarfleetAustraliaOS.md),
+with FC-07's spec table reproduced verbatim from the uploaded CSV, the
+System Change Protocol as a Principle/Description/Implementation table,
+and the Code Codex populated only with the 2 entries actually present in
+the material (CXVIII, CXIX, both Hilltop Hoods) — the other ~115 claimed
+entries were referenced by the prompt's own manifest but never attached,
+and were not invented. Logged the gap and the unreviewed new nomenclature
+(FC-01–FC-08, "NCC-992-AU") in
+[`../OPEN-QUESTIONS.md`](../OPEN-QUESTIONS.md). **Label: Vision (fleet
+concept, not built or funded); the FC-07 hardware named — BrainChip Akida,
+NVIDIA Jetson Orin — is real, existing product, checked only for
+existence, not for this deployment.**
+
 ## Now
 
 | Item | Label | Source |

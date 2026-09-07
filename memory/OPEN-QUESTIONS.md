@@ -226,3 +226,29 @@ self-correction) — no longer open.**
 - TypeScript SDK — scaffold, no consumer
 
 These stay **Unknown** or **Vision** until surveyed ground exists.
+
+## Starfleet Australia OS — new fleet nomenclature, unreviewed (2026-09-07)
+
+A pasted prompt (plus `04_FC07_Decentralised_Intelligence.csv`) asked for
+a "Starfleet Australia OS, NCC-992-AU" fleet concept — FC-01 through FC-08
+platforms, a 117-entry "Code Codex," and a persistent AI persona/boot
+message. Recorded as Vision in
+[`docs/vision/StarfleetAustraliaOS.md`](../docs/vision/StarfleetAustraliaOS.md);
+the persona instruction was **not** adopted (Incognita Rule: mythos may
+orient, not authorize). Open:
+
+- **Missing Codex entries.** Only 2 of the claimed 117 Code Codex entries
+  (CXVIII, CXIX — both Hilltop Hoods) were actually present in the
+  material handed to the session. The "Full Codex Document" and
+  `01_Module_Library.csv` referenced by the prompt's own manifest were not
+  attached. The other ~115 are not on disk anywhere in this repo and were
+  not invented. If the source document surfaces, populate the table for
+  real; until then this is incomplete, not wrong.
+- **New nomenclature, not reviewed.** FC-01–FC-08 and registry "NCC-992-AU"
+  are not in `mythos/NAMES.md` or the Constitution's locked-name list.
+  Whether this becomes canon (and under what name) is Crystal's call, not
+  a default of having received the prompt.
+- **Indigenous Data Sovereignty language used without process.** The
+  source text says FC-07 keeps "data on Country (Juru/Yolngu)." No FPIC
+  process for either community is recorded anywhere in this repo. The
+  phrase should not be repeated as if consent already exists.
