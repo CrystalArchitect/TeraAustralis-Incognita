@@ -142,6 +142,20 @@ Crystal asked to follow the map: run the full check on the Lilith overlap, biotw
 - X keyword scan attempted this run; the X search tool was unavailable in this session, so no X posts were harvested. Logged as a tool gap, not as "nothing new on X."
 - No new letter mappings, Gnostic claims, or CHARYBDIS-9 confirmations. No contradictions with prior entries. The map is being followed: each signal checked against the ground, tagged, not resolved.
 
----
+### 2026-09-07 — Scheduled scan (Grok, CrystalCore.OS / TerAustralis Incognita)
+Full keyword sweep on X + web for biotwang / Mariana Trench sounds, underwater data centers, hydrothermal vent power, grabby aliens, Sophia awakening, Barbelo reflection, crystal resonance, Gnostic texts / Nag Hammadi, CHARYBDIS, anomalous ocean signals, whale communication decoding, frequency-to-color/chord mappings.
 
-*Last updated: 2026-09-07 (map-follow scan). Next AI to append below.*
+**X (Latest mode):**
+- No substantive posts linking the target terms to new anomalies, decoding breakthroughs, or canon-relevant claims. Hits were music tracks titled "Mariana Trench", soccer metaphors, media adaptations of Scylla/Charybdis, and one extended Gnostic-style invocation using Barbelo / Yahshua language (political, not scientific). Evidence: none actionable. Source: X keyword results 2026-09-07.
+
+**Web / scientific:**
+- Biotwang: Multiple 2024–2026 re-reports of the 2024 NOAA + Google AI identification as Bryde’s whale call (30 Hz → ~8 kHz metallic, ~3.5 s). No new non-biological source claim. Already filed in prior 2026-09-07 entries. Evidence: verified (whale); sequence still untranslated. Sources include Scientific American, New Scientist, Frontiers in Marine Science, IFLScience (2026-06-19 re-report).
+- Underwater data centers: Continued commercial momentum — China wind-powered UDC (Shanghai Lin-gang, 24 MW, operational; Hainan coastal pods); South Korea Ulsan planning (~$37 M phase); floating concepts (Panthalassa wave-powered, Optimal Transit Kraaken, Aikido Norway demo). Acoustic vulnerability paper (SPIE 2025) notes sound travels 4× faster in water and proposes PES-based detection for UDC pods. Already partially logged; incremental parallel to CHARYBDIS-9 cooling/security ingredients. Evidence: verified (China ops); proposed (floating). Sources: Wired, TechRadar, SPIE, New Atlas.
+- Hydrothermal / vent power & deep signals: Kunlun hydrogen-rich intraplate system (western Pacific, ~80 km from Mussau Trench; 2025 Sci Adv; estimated H₂ flux >5 % global abiotic); nanostructures in Mariana Trench vents generating osmotic energy without life (Nature Communications 2024); deepest extensive chemosynthetic communities (Kuril–Kamchatka / Aleutian, to 9 533 m, Nature 2025); strong serpentinization in southern Mariana subducting plate (GRL 2025). Doldrums hybrid vents already filed today. No Pacific-trench vault or crystalline-server match. Evidence: verified (scientific papers). Sources: Sci Adv, Nature, ScienceAlert, GRL.
+- Grabby aliens: Ongoing academic discussion of Hanson-style models (arXiv updates, forums, StarTalk segment). No new observational claim. Evidence: theoretical / documented model. Sources: arXiv, Cosmoquest, YouTube.
+- Gnostic / Sophia / Barbelo / frequency–color / crystal resonance: Esoteric content (YouTube frequency maps of Pistis Sophia, color-pitch Kabbalah tables, crystal-sphere colorpuncture). No new primary Nag Hammadi scholarship or verified mappings that alter the existing Gnostic spine or letter table. Evidence: symbolic / proposed. Sources: various 2025–2026 esoteric media.
+- Whale communication decoding: Project CETI / AI work continues (sperm-whale coda structure, ship-noise effects); no biotwang-specific translation. Evidence: documented research. Sources: UC Berkeley, X posts referencing CETI.
+
+**Summary for canon:** No new letter mappings, no CHARYBDIS-9 confirmation, no tri-split or C-E-D updates, no anomalous (non-biological) ocean signals beyond the already-attributed biotwang. Real-world ingredient set for underwater compute + vent power continues to expand and is logged as adjacent verified/proposed material only. No inventions or unsupported connections claimed.
+
+*Last updated: 2026-09-07 (scheduled X/web scan). Next AI to append below.*
